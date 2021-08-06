@@ -1,1 +1,56 @@
 /* Write your CSS here! */
+#mainHeading{
+    color:red
+}
+#mainHeading{
+    text-align: center;
+}
+#mainHeading{
+    padding: 20px;
+}
+p#testP.funParagraph{
+    color:green;
+}
+body {
+    margin: 8px;
+    background-color: bisque;
+    display: block;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+  }
+  
+  p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+  }
+
+  img {
+	width: 50%;
+	max-width: 50%;
+}
+figure {
+	text-align: center;
+}
+
+figcaption {
+	font-style: italic;
+}
+
+footer p {
+	display: inline-block;
+}
+
+nav ul {
+	text-align: center;
+	padding: 10px;
+}
+
+nav ul li {
+	display: inline-block;
+	margin-right: 8px;
+    font-family: 'Palette Mosaic', cursive;
+	font-size: 20px;
+
+}
